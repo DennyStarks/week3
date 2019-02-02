@@ -1,0 +1,11 @@
+nav a{
+	text-decoration: none;
+    color: black;
+    font: roboto;
+ 
+}
+
+.current{
+    text-transform: uppercase;
+    color: #8BB73B;
+}
